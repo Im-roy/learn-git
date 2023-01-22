@@ -28,3 +28,48 @@ It's also a good practice to use a prefix in the commit message to indicate the 
 <i>fix:, feat:, docs:, style:, refactor:, perf:, test: </i>and so on. 
 This helps to quickly identify the type of change and make the message more informative.
 
+The prefixes "fix:", "feat:", "docs:", "style:", "refactor:", "perf:" and
+"test:" are commonly used in Git commit messages to indicate the type of changes
+that were made in the commit. These prefixes can be useful for quickly identifying 
+the purpose of a commit, and can be used as a way to categorize commits in a project.
+
+Here's what each prefix typically indicates:
+<ol>
+<details>
+<summary> "fix: "</summary>
+- "fix:" is used to indicate that the commit is a bug fix.
+</details>
+<details>
+<summary> "feat: "</summary>
+    - "feat:" is used to indicate that the commit is a new feature.
+</details>
+<details>
+<summary> "docs: "</summary>
+    - "docs:" is used to indicate that the commit is related to documentation.
+</details>
+<details>
+<summary> "style: "</summary>
+    "style:" is used to indicate that the commit is related to code formatting, indentation, and other style-related changes.
+</details>
+<details>
+<summary> "refactor: "</summary>
+    "refactor:" is used to indicate that the commit is related to code refactoring, which is the process of restructuring existing code without changing its functionality.
+</details>
+<details>
+<summary> "perf: "</summary>
+    "perf:" is used to indicate that the commit is related to performance improvements.
+</details>
+<details>
+<summary> "test: "</summary>
+    "test:" is used to indicate that the commit is related to adding, modifying or removing tests.
+</details>
+</ol>
+
+It is important to mention that these prefixes are not standard across all the
+projects and teams, you can use them or not, and you can also define your own
+prefixes according to the needs of your project.
+
+It's also important to include a short summary of the changes made in the
+commit message. This summary should be written in a way that is clear,
+concise, and informative, so that other developers can understand what was
+done and why.

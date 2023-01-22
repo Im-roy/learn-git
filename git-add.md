@@ -4,8 +4,8 @@ When you saw her using git add .
 <br>
 !['face'](https://media.tenor.com/oKYwhkxTGMoAAAAM/baby-disgusted-reaction-funny.gif)
 
-Want to write meaningful git message for all chunks of code 
-Or don't want to stage debug code snippets..
+Want to write meaningful git message for all chunks of code
+Or don't want to stage debug code snippets...
 <br>
 <br>
 <img src= "https://cupofcode.blog/wp-content/uploads/2021/03/cupofcode_blog_git_meme-1024x1024.png" height = 300 width = 400>
