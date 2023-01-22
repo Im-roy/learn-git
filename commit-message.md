@@ -1,11 +1,11 @@
 # GIT COMMIT
-
+<br>
 <img src = "https://media.makeameme.org/created/makes-a-git.jpg" height = 300 width = 300/>
 <br>
-<br>
-Git commit messages are short descriptions of the changes that were made in a particular commit. They should 
+
+<b>Git commit messages are short descriptions of the changes that were made in a particular commit. They should 
 be written in a way that is clear, concise, and informative, so that other developers can understand 
-what was done and why.
+what was done and why. </b>
 
 Here are some examples of good commit messages:
 
@@ -25,6 +25,6 @@ way, that is easy to understand, and that provides enough context to understand 
 Avoid generic messages like "change something" or "fix stuff".
 
 It's also a good practice to use a prefix in the commit message to indicate the type of changes made like
-fix:, feat:, docs:, style:, refactor:, perf:, test: and so on. 
+<i>fix:, feat:, docs:, style:, refactor:, perf:, test: </i>and so on. 
 This helps to quickly identify the type of change and make the message more informative.
 
