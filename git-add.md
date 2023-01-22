@@ -1,10 +1,15 @@
 # git add -p
 
-### Want to write meaningfull git message for all chunks of code 
-### Or don't want to stage few lines of code
+When you saw her using git add . 
 <br>
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcupofcode.blog%2Fintro-to-git%2F&psig=AOvVaw2_riT2_dfi4LgxZOOFdYRp&ust=1674450717820000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjRrpS12vwCFQAAAAAdAAAAABAh" height = 300 width = 400>
+!['face'](https://media.tenor.com/oKYwhkxTGMoAAAAM/baby-disgusted-reaction-funny.gif)
+
+Want to write meaningful git message for all chunks of code 
+Or don't want to stage debug code snippets..
 <br>
+<br>
+<img src= "https://cupofcode.blog/wp-content/uploads/2021/03/cupofcode_blog_git_meme-1024x1024.png" height = 300 width = 400>
+<br><br>
 
 The git add -p command is used to add changes to the staging area in a more granular way. The -p option
 stands for "patch" and it allows you to interactively review and select specific changes that you want to stage.
